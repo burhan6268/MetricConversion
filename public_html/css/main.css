@@ -1,0 +1,51 @@
+/*
+Burhanuddin Lokhandwala
+Student Id - 991523243
+SYST-10199 - Web Programming
+*/
+/* 
+    Created on : 12-Feb-2019, 12:45:45 AM
+    Author     : Burhanuddin
+*/
+body
+{
+    background-color: black;
+    color:white;
+}
+h3
+{
+    font-family: Georgia;
+    font-size: 21px;
+    border:white 3px solid;
+    color:rgba(255,0,0,0.9);
+    padding:5px;
+}
+
+h2
+{
+    font-family: Georgia;
+    padding:4px;
+    font-size: 21px;
+    border:white 5px double;
+    color:rgba(255,0,0,0.9);
+}
+
+h1
+{
+    font-family: Georgia;
+    border:white 3px groove;
+    padding:4px;
+    color:rgba(255,0,0,0.9);
+}
+
+button,input
+{
+    text-align:justify;
+    font-size:15px;
+    padding:10px;
+    font-weight: bold;
+    background-color: white;
+    font-family: cambria;
+    color:black;
+    box-shadow:4px 6px 10px red;
+}
